@@ -1,7 +1,7 @@
 # INKredible
 *Project Members : Arsheya Raj, Sunjil Gahatraj*
 
-# Demo Video: https://www.youtube.com/shorts/W7J2O87euRM
+## Demo Video: https://www.youtube.com/shorts/W7J2O87euRM
 
 ## Summary of Project
 *Our application will allow user to create professional documents from handwritten notes or tables in seconds. User will scan notes, and application will generate a PDF/Word document or markdown file, which can be downloaded, saved, and emailed. It will be very useful for someone who wants professional document on the go or does not have access to workstation all the time. On average, it will save about 12.5 minutes per page compared to typing same thing on computer. Also, writing digitally is 25% slower, hence users can have the text written by hand and then scan them to save time.*
