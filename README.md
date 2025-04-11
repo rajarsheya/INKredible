@@ -1,10 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8937628&assignment_repo_type=AssignmentRepo)
-Hint: [Markup Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
 # INKredible
 *Project Members : Arsheya Raj, Sunjil Gahatraj*
 
-*Version # : 2.0.0*
+# Demo Video: https://www.youtube.com/shorts/W7J2O87euRM
 
 ## Summary of Project
 *Our application will allow user to create professional documents from handwritten notes or tables in seconds. User will scan notes, and application will generate a PDF/Word document or markdown file, which can be downloaded, saved, and emailed. It will be very useful for someone who wants professional document on the go or does not have access to workstation all the time. On average, it will save about 12.5 minutes per page compared to typing same thing on computer. Also, writing digitally is 25% slower, hence users can have the text written by hand and then scan them to save time.*
